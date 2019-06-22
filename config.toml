@@ -1,4 +1,4 @@
-baseURL = "www.loganayliffe.com"
+baseURL = "http://www.loganayliffe.com"
 title   = "Logan Ayliffe"
 
 DefaultContentLanguage = "en"
