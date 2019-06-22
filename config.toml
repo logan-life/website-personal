@@ -1,5 +1,5 @@
 baseURL = "https://confident-payne-c52d33.netlify.com/"
-title   = "Hello Friend NG"
+title   = "Logan Ayliffe"
 
 DefaultContentLanguage = "en"
 
@@ -38,7 +38,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Jane Doe"
+  name = "Logan Ayliffe"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -54,11 +54,11 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Nice theme for homepages and blogs"
-  keywords = ""
+  description = "Homepage and contact information for Logan Ayliffe"
+  keywords = "blog, tech, coding, programming, science"
   images = [""]
 
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "i do stuff with computers"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
@@ -84,28 +84,28 @@ disableHugoGeneratorInject = false
   # Social icons
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/"
+    url  = "https://twitter.com/logan_ayliffe"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "mailto:logan.life.online@gmail.com"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/logan-life"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    url  = "https://www.linkedin.com/in/logan-ayliffe"
 
 [languages]
   [languages.en]
-    subtitle  = "Hello Friend NG Theme"
+    subtitle  = "i do stuff with computers"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   [languages.fr]
-    subtitle  = "Hello Friend NG Theme"
+    subtitle  = "i do stuff with computers"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
