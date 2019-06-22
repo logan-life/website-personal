@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/fr/index.html</loc>
+    <loc>https://confident-payne-c52d33.netlify.com/fr/index.html</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/index.html"
+                href="https://confident-payne-c52d33.netlify.com/index.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/index.html"
+                href="https://confident-payne-c52d33.netlify.com/fr/index.html"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/</loc>
+    <loc>https://confident-payne-c52d33.netlify.com/fr/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://confident-payne-c52d33.netlify.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/"
+                href="https://confident-payne-c52d33.netlify.com/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/fr/tags/</loc>
+    <loc>https://confident-payne-c52d33.netlify.com/fr/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://confident-payne-c52d33.netlify.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/"
+                href="https://confident-payne-c52d33.netlify.com/fr/tags/"
                 />
   </url>
   
