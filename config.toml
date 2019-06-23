@@ -100,14 +100,18 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.en]
+    title = "Logan Ayliffe"
     subtitle  = "i do stuff with computers"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Read other posts"
 
   [languages.fr]
+    title = "Logan Ayliffe"
     subtitle  = "i do stuff with computers"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Read other posts"
 
 [menu]
   [[menu.main]]
