@@ -1,69 +1,100 @@
 baseURL = "https://www.loganayliffe.com"
-title   = "Logan Ayliffe"
-
-DefaultContentLanguage = "en"
 languageCode = "en-us"
-theme = "hello-friend-ng"
-
-PygmentsCodeFences = true
-PygmentsStyle = "monokai"
-
-rssLimit  = 10  # Maximum number of items in the RSS feed.
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
-
-# googleAnalytics = ""
-# disqusShortname = ""
+theme = "hello-friend"
+paginate = 5
 
 
+#PygmentsCodeFences = true
+#PygmentsStyle = "monokai"
+#rssLimit  = 10  # Maximum number of items in the RSS feed.
+#copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+#googleAnalytics = ""
+#disqusShortname = ""
+#[permalinks]
+#  posts = "/posts/:year/:month/:title/"
+#[author]
+ # name = "Logan Ayliffe"
+#[blackfriday]
+ # hrefTargetBlank = true
 
-[permalinks]
-  posts = "/posts/:year/:month/:title/"
 
-[author]
-  name = "Logan Ayliffe"
-
-[blackfriday]
-  hrefTargetBlank = true
-
-[taxonomies]
-  tag      = "tags"
-  category = ""
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # "light" or "dark"
+  defaultTheme = "dark"
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 2
+  # Show reading time in minutes for posts
+  showReadingTime = false
+[languages]
+  [languages.en]
+    title = "Logan Ayliffe"
+    subtitle = "i do stuff wth computers"
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    writtenBy = "Written by"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    minuteReadingTime = "min read"
+    dateFormatSingle = "2006-01-02"
+    dateFormatList = "2006-01-02"
 
+    [languages.en.params.logo]
+      logoText = "hello friend"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "showcase"
+        name = "Showcase"
+        url = "/showcase"
+  
   # Metadata mostly used in document's head
-  description = "Homepage and contact information for Logan Ayliffe"
-  keywords = "blog, tech, coding, programming, science"
-  images = [""]
+  #description = "Homepage and contact information for Logan Ayliffe"
+  #keywords = "blog, tech, coding, programming, science"
+  #images = [""]
 
-  homeSubtitle = "i do stuff with computers"
+  #homeSubtitle = "i do stuff with computers"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
-  customCSS = []
-  customJS  = []
+  #customCSS = []
+  #customJS  = []
 
   # Toggle this option need to rebuild SCSS, requires extended version of Hugo
-  justifyContent = false  # Set "text-align: justify" to .content.
+  #justifyContent = false  # Set "text-align: justify" to .content.
 
   # Directory name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
+  #contentTypeName = "posts"
   # Default theme "light" or "dark"
-  defaultTheme = "dark"
-  themeColor = "#252627"
+  #defaultTheme = "dark"
+  #themeColor = "#252627"
 
-  [params.logo]
-    logoText     = "$ cd /home/"
-    logoHomeLink = "/"
+  #[params.logo]
+   # logoText     = "$ cd /home/"
+    #logoHomeLink = "/"
 
-  # Social icons
+  
+
+
+
+# Social icons
   [[params.social]]
     name = "twitter"
     url  = "https://twitter.com/logan_ayliffe"
@@ -80,27 +111,3 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     name = "linkedin"
     url  = "https://www.linkedin.com/in/logan-ayliffe"
 
-[languages]
-  [languages.en]
-    title = "Logan Ayliffe"
-    subtitle  = "i do stuff with computers"
-    weight    = 1
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-    readOtherPosts = "Read other posts"
-
-  [languages.fr]
-    title = "Logan Ayliffe"
-    subtitle  = "i do stuff with computers"
-    weight    = 2
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-    readOtherPosts = "Read other posts"
-
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about/"
-  [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts/"
