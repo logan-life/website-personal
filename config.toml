@@ -12,10 +12,8 @@ copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
   subtitle = "i do stuff wth computers"
-  homeSubTitle = "social justice-minded tech nerd and CS graduate @ University of Pennsylvania."
+  homeSubTitle = "social justice-minded tech nerd and CS graduate student @ University of Pennsylvania."
   
-  
-
   # Metadata mostly used in document's head
   description = "Homepage and contact info for Logan Ayliffe"
   keywords = "homepage, blog, science, coding, development, programming, tech, technology"
