@@ -11,7 +11,7 @@ copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
-  subtitle = "i do stuff wth computers"
+  subtitle = "i do stuff with computers"
   homeSubTitle = "social justice-minded tech nerd and CS graduate student @ University of Pennsylvania."
   
   # Metadata mostly used in document's head
