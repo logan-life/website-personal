@@ -5,8 +5,8 @@ DefaultContentLanguage           = "en"                    # Default language fo
  googleAnalytics                 = "UA-115978447-2"                     # https://gohugo.io/templates/internal/#google-analytics
 
 [params]
-    themeStyle                   = "dark"                 # Choose "light" or "dark"
-    favicon                      = "/static/favicon.ico"          # Path to favicon file
+    themeStyle                   = "light"                 # Choose "light" or "dark"
+    favicon                      = "home/favicon.ico"          # Path to favicon file
     showRSSButton                = false                   # Show rss button in navigation
     fadeIn                       = true                    # Turn on/off the fade-in effect
     fadeInIndex                  = false                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
@@ -94,7 +94,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         languageCode     = "en-us"
         contentDir       = "content/en"
         weight           = 0
-        title            = "Introduction"
+        title            = "Logan Ayliffe"
         [languages.en.params]
             description  = "Homepage and contact info for Logan Ayliffe"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
