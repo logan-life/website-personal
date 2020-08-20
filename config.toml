@@ -12,7 +12,7 @@ copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
   subtitle = "i do stuff with computers"
-  homeSubTitle = "CS graduate student @ University of Pennsylvania and senior dog dad."
+  homeSubTitle = "CS graduate student @ University of Pennsylvania"
   googleAnalytics = "UA-115978447-2"
   
   # Metadata mostly used in document's head
@@ -32,7 +32,7 @@ copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_
 
   [[params.social]]
     name = "email"
-    url  = "mailto:ayliffe@seas.upenn.edu"
+    url  = "mailto:ayliffe@hey.com"
 
   [[params.social]]
     name = "github"
