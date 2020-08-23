@@ -3,11 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.loganayliffe.com/categories/</loc>
+    <loc>https://www.loganayliffe.com/projects/</loc>
+    <lastmod>2020-08-20T14:56:31-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.loganayliffe.com/blog/</loc>
+    <lastmod>2020-08-20T16:29:25-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.loganayliffe.com/</loc>
+    <lastmod>2020-08-20T16:29:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.loganayliffe.com/blog/vermont2020/</loc>
+    <lastmod>2020-08-20T16:29:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.loganayliffe.com/projects/cit59x/</loc>
+    <lastmod>2020-08-20T14:56:31-04:00</lastmod>
   </url>
   
   <url>
