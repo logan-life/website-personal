@@ -109,6 +109,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
          #   description  = "Descripcion del sitio web"
             # footerText   = ""
 
+
   #  [languages.de]
    #     languageName     = "Deutsch"
     #    languageCode     = "de"
