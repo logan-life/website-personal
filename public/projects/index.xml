@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Logan Ayliffe</title>
+    <link>https://www.loganayliffe.com/projects/</link>
+    <description>Recent content in Projects on Logan Ayliffe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Aug 2020 14:56:31 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.loganayliffe.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Design: CIT59x</title>
+      <link>https://www.loganayliffe.com/projects/cit59x/</link>
+      <pubDate>Thu, 20 Aug 2020 14:56:31 -0400</pubDate>
+      
+      <guid>https://www.loganayliffe.com/projects/cit59x/</guid>
+      <description>CIT59x is a website for the University of Pennsylvania MCIT program student group. I am technical lead for the group and co-founder. This site is built in Hugo with continuous deployment via github + netlify.</description>
+    </item>
+    
+  </channel>
+</rss>
