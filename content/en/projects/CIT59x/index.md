@@ -1,5 +1,5 @@
 ---
-title: "Design: CIT59x" # Title of your project
+title: "Website: CIT59x" # Title of your project
 date: 2020-08-20T14:56:31-04:00
 weight: 0 # Order in which to show this project on the home page
 external_link: "https://www.cit59x.com" # Optional external link instead of modal

@@ -4,4 +4,4 @@ headless: true
 
 ---
 
-I'm a financial analyst, research marketing consultant, and computer science graduate student.
+I'm a computer science graduate student, financial analyst, and research marketing consultant.
