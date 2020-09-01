@@ -1,8 +1,8 @@
 ---
-title: "Rèsumè"
+title: "Résumé"
 weight: 5
 ---
-A PDF copy of my current rèsumè is available [here](/home/Logan_Ayliffe_resume_20200513.pdf).
+A PDF copy of my current résumé is available [here](/home/Logan_Ayliffe_resume_20200513.pdf).
 <br>
 
 ### Education
