@@ -9,10 +9,10 @@ DefaultContentLanguage           = "en"                    # Default language fo
     favicon                      = "home/favicon.ico"          # Path to favicon file
     showRSSButton                = false                   # Show rss button in navigation
     fadeIn                       = false                   # Turn on/off the fade-in effect
-    fadeInIndex                  = false                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
+    fadeInIndex                  = true                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
     dateFormat                   = "Jan 2, 2006"
     email                        = "ayliffe@hey.com"   # E-mail address for contact section
-    # customCSS                  =  "themes/introduction/assets/custom.css"             # Include custom css files placed under assets/
+    # customCSS                  =  "http://thomasf.github.io/solarized-css/solarized-light.min.css"           # Include custom css files placed under assets/
     # customJS                   = ["foo.js"]              # Include custom JavaScript files placed under assets/
 
     # Configure the home page
