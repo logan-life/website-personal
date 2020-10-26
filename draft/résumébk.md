@@ -3,7 +3,7 @@ title: "Résumé"
 weight: 5
 draft: true
 ---
-A PDF copy of my current résumé is available [here](/home/Logan_Ayliffe_resume_20200513.pdf).
+A PDF copy of my current résumé is available [here](/home/Ayliffe_Logan_Resume_20201026.pdf).
 <br>
 
 ### Education
