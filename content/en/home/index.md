@@ -1,5 +1,5 @@
 ---
-title: "Hi. I'm Logan."
+title: "Hi! I'm Logan."
 headless: true
 
 ---

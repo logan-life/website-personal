@@ -12,7 +12,16 @@
     
     
     <item>
-      <title>Design: CIT59x</title>
+      <title>Twitter Bot: Professor 59X</title>
+      <link>https://www.loganayliffe.com/projects/professor59x/</link>
+      <pubDate>Thu, 20 Aug 2020 14:56:31 -0400</pubDate>
+      
+      <guid>https://www.loganayliffe.com/projects/professor59x/</guid>
+      <description>UPenn MCIT program twitter bot. MCIT courses have numbering convention 59(X). Maintained by @logan_ayliffe . Code @ github: https://bit.ly/2RHtAes</description>
+    </item>
+    
+    <item>
+      <title>Website: CIT59x</title>
       <link>https://www.loganayliffe.com/projects/cit59x/</link>
       <pubDate>Thu, 20 Aug 2020 14:56:31 -0400</pubDate>
       
